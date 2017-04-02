@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="/home/pzanni/ohtu-viikko3/gradle-tutorial/src/main/java/Main.java">
+<error line="6" severity="error" message="&apos;member def type&apos; have incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" severity="error" message="&apos;method def&apos; child have incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/pzanni/ohtu-viikko3/gradle-tutorial/src/main/java/ohtu/Multiplier.java">
+</file>
+</checkstyle>
